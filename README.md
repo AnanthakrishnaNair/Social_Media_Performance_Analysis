@@ -96,7 +96,7 @@ The project uses multiple Excel datasets containing:
 ## Project Structure
 
 ```text
-spotify-social-media-performance-analysis
+Social_Media_Performance_Analysis
 │
 ├── README.md
 ├── data
